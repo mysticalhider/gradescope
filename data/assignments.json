@@ -3,9 +3,9 @@
     {
       "title": "Token 1",
       "course": "CSC-151 Fall 2025",
-      "dueDate": "20250502T220000Z",
+      "dueDate": "20251212T220000Z",
       "lateDueDate": null,
-      "link": "https://www.gradescope.com/courses/1075533",
+      "link": "https://www.gradescope.com/courses/1075533/assignments/6484508/submissions/new",
       "submitted": false
     },
     {
@@ -38,6 +38,54 @@
       "dueDate": "20250904T223000Z",
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1075533/assignments/6613541/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Token 2",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251212T220000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1075533/assignments/6639893/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Token 3",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251212T220000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1075533/assignments/6639894/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Token 4",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251212T220000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1075533/assignments/6639895/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Token 5",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251212T220000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1075533/assignments/6639896/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Token 6",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251212T220000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1075533/assignments/6639897/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Coding Challenge 1: Exploring Algorithms",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20250904T223000Z",
+      "lateDueDate": "20250906T223000Z",
+      "link": "https://www.gradescope.com/courses/1075533",
       "submitted": false
     }
   ]
