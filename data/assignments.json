@@ -20,7 +20,7 @@
       "title": "Weekly Questionnaire 1: August 25-31",
       "course": "CSC-151 Fall 2025",
       "dueDate": "20250901T220000Z",
-      "lateDueDate": null,
+      "lateDueDate": "20250903T220000Z",
       "link": "https://www.gradescope.com/courses/1075533/assignments/6576231/submissions/343132148",
       "submitted": true
     },
@@ -78,14 +78,6 @@
       "dueDate": "20251212T220000Z",
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1075533/assignments/6639897/submissions/new",
-      "submitted": false
-    },
-    {
-      "title": "Coding Challenge 1: Exploring Algorithms",
-      "course": "CSC-151 Fall 2025",
-      "dueDate": "20250904T223000Z",
-      "lateDueDate": "20250906T223000Z",
-      "link": "https://www.gradescope.com/courses/1075533",
       "submitted": false
     }
   ]
