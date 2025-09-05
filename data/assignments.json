@@ -25,6 +25,14 @@
       "submitted": true
     },
     {
+      "title": "Weekly Questionnaire 2: September 1-7",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20250908T220000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1075533/assignments/6576235/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Reading Response 1 (due before class 2)",
       "course": "CSC-151 Fall 2025",
       "dueDate": "20250902T223000Z",
@@ -41,12 +49,44 @@
       "submitted": true
     },
     {
+      "title": "Reading Response 3 (due before class 4)",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20250907T223000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1075533/assignments/6613562/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Reading Response 4 (due before class 5)",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20250909T223000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1075533/assignments/6613567/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Reading Response 5 (due before class 6)",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20250911T223000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1075533/assignments/6613581/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Lab 1: Introduction to Scamper",
       "course": "CSC-151 Fall 2025",
       "dueDate": "20250905T223000Z",
       "lateDueDate": "20250907T223000Z",
       "link": "https://www.gradescope.com/courses/1075533/assignments/6639881/submissions/343703852",
       "submitted": true
+    },
+    {
+      "title": "Lab 2: Mental Models of Scheme Programs",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20250908T223000Z",
+      "lateDueDate": "20250910T223000Z",
+      "link": "https://www.gradescope.com/courses/1075533",
+      "submitted": false
     },
     {
       "title": "Token 2",
