@@ -33,6 +33,14 @@
       "submitted": false
     },
     {
+      "title": "Weekly Questionnaire 3: September 8-14",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20250915T220000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1075533/assignments/6576275/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Reading Response 1 (due before class 2)",
       "course": "CSC-151 Fall 2025",
       "dueDate": "20250902T223000Z",
@@ -73,6 +81,22 @@
       "submitted": false
     },
     {
+      "title": "Reading Response 6 (due before class 7)",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20250914T223000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1075533/assignments/6613588/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Reading Response 7 (due before class 8)",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20250916T223000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1075533/assignments/6613605/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Lab 1: Introduction to Scamper",
       "course": "CSC-151 Fall 2025",
       "dueDate": "20250905T223000Z",
@@ -103,6 +127,14 @@
       "lateDueDate": "20250914T223000Z",
       "link": "https://www.gradescope.com/courses/1075533/assignments/6639885/submissions/345699743",
       "submitted": true
+    },
+    {
+      "title": "Lab 5: Boolean values, predicates, and conditionals",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20250915T223000Z",
+      "lateDueDate": "20250917T223000Z",
+      "link": "https://www.gradescope.com/courses/1075533",
+      "submitted": false
     },
     {
       "title": "Token 2",
