@@ -183,6 +183,14 @@
       "lateDueDate": "20250913T223000Z",
       "link": "https://www.gradescope.com/courses/1075533/assignments/6639899/submissions/346387445",
       "submitted": true
+    },
+    {
+      "title": "Coding Challenge 2: Writing Procedures",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20250918T223000Z",
+      "lateDueDate": "20250920T223000Z",
+      "link": "https://www.gradescope.com/courses/1075533",
+      "submitted": false
     }
   ],
   "MAT-131-04-05.2025/FA": []
