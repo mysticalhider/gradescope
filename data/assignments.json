@@ -37,7 +37,7 @@
       "course": "CSC-151 Fall 2025",
       "dueDate": "20250915T220000Z",
       "lateDueDate": null,
-      "link": "https://www.gradescope.com/courses/1075533/assignments/6576275/submissions/new",
+      "link": "https://www.gradescope.com/courses/1075533",
       "submitted": false
     },
     {
@@ -133,8 +133,8 @@
       "course": "CSC-151 Fall 2025",
       "dueDate": "20250915T223000Z",
       "lateDueDate": "20250917T223000Z",
-      "link": "https://www.gradescope.com/courses/1075533",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1075533/assignments/6639887/submissions/347541276",
+      "submitted": true
     },
     {
       "title": "Token 2",
