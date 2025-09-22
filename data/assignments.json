@@ -201,6 +201,14 @@
       "submitted": true
     },
     {
+      "title": "Lab 8: Wrangling Data",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20250924T223000Z",
+      "lateDueDate": "20250926T223000Z",
+      "link": "https://www.gradescope.com/courses/1075533",
+      "submitted": false
+    },
+    {
       "title": "Coding Challenge 2: Writing Procedures",
       "course": "CSC-151 Fall 2025",
       "dueDate": "20250918T223000Z",
@@ -246,6 +254,14 @@
       "dueDate": "20250922T220000Z",
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1075533/assignments/6748067/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Redo Quiz Problems  - Survey for Quiz 3",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20250922T223000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1075533/assignments/6795018/submissions/new",
       "submitted": false
     }
   ],
