@@ -233,6 +233,14 @@
       "submitted": true
     },
     {
+      "title": "Coding Challenge 4: Using lists for data science",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251002T223000Z",
+      "lateDueDate": "20251004T223000Z",
+      "link": "https://www.gradescope.com/courses/1075533",
+      "submitted": false
+    },
+    {
       "title": "Reading Response 8 (due before class 10)",
       "course": "CSC-151 Fall 2025",
       "dueDate": "20250921T223000Z",
@@ -278,6 +286,14 @@
       "dueDate": "20250922T220000Z",
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1075533",
+      "submitted": false
+    },
+    {
+      "title": "Weekly Questionnaire 5: September 22-28",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20250929T220000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1075533/assignments/6748070/submissions/new",
       "submitted": false
     },
     {
