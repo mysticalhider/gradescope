@@ -217,6 +217,14 @@
       "submitted": true
     },
     {
+      "title": "Lab 10: Naming values with local bindings",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251001T223000Z",
+      "lateDueDate": "20251003T223000Z",
+      "link": "https://www.gradescope.com/courses/1075533",
+      "submitted": false
+    },
+    {
       "title": "Coding Challenge 2: Writing Procedures",
       "course": "CSC-151 Fall 2025",
       "dueDate": "20250918T223000Z",
@@ -305,11 +313,27 @@
       "submitted": false
     },
     {
+      "title": "Redo Quiz Problems  - Survey for Quiz 4",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20250929T223000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1075533/assignments/6826863/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "CC1 REDO: Exploring Algorithms",
       "course": "CSC-151 Fall 2025",
       "dueDate": "20251008T223000Z",
       "lateDueDate": "20251212T223000Z",
       "link": "https://www.gradescope.com/courses/1075533",
+      "submitted": false
+    },
+    {
+      "title": "Reading Response 13 (due before class 15)",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251002T223000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1075533/assignments/6862510/submissions/new",
       "submitted": false
     }
   ],
