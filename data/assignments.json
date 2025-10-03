@@ -233,6 +233,14 @@
       "submitted": true
     },
     {
+      "title": "Lab 12: Data From Files",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251006T223000Z",
+      "lateDueDate": "20251008T223000Z",
+      "link": "https://www.gradescope.com/courses/1075533",
+      "submitted": false
+    },
+    {
       "title": "Coding Challenge 2: Writing Procedures",
       "course": "CSC-151 Fall 2025",
       "dueDate": "20250918T223000Z",
@@ -255,6 +263,14 @@
       "lateDueDate": "20251004T223000Z",
       "link": "https://www.gradescope.com/courses/1075533/assignments/6748021/submissions/354125212",
       "submitted": true
+    },
+    {
+      "title": "Coding Challenge 5",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251009T223000Z",
+      "lateDueDate": "20251011T223000Z",
+      "link": "https://www.gradescope.com/courses/1075533",
+      "submitted": false
     },
     {
       "title": "Reading Response 8 (due before class 10)",
