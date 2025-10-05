@@ -375,6 +375,14 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1075533/assignments/6880651/submissions/354726988",
       "submitted": true
+    },
+    {
+      "title": "Reading Response 14 (due before class 16)",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251005T223000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1075533/assignments/6914867/submissions/new",
+      "submitted": false
     }
   ],
   "MAT-131-04-05.2025/FA": []
