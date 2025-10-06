@@ -241,6 +241,14 @@
       "submitted": false
     },
     {
+      "title": "Lab 13: Pattern Matching and Recursive Tracing",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251008T223000Z",
+      "lateDueDate": "20251010T223000Z",
+      "link": "https://www.gradescope.com/courses/1075533",
+      "submitted": false
+    },
+    {
       "title": "Coding Challenge 2: Writing Procedures",
       "course": "CSC-151 Fall 2025",
       "dueDate": "20250918T223000Z",
@@ -383,6 +391,14 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1075533/assignments/6914867/submissions/354994526",
       "submitted": true
+    },
+    {
+      "title": "Reading Response 15 (due before class 18)",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251009T223000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1075533/assignments/6914869/submissions/new",
+      "submitted": false
     }
   ],
   "MAT-131-04-05.2025/FA": []
