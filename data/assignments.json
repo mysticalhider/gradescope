@@ -399,6 +399,14 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1075533/assignments/6914869/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "CC3 REDO: Exploring course data",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251029T223000Z",
+      "lateDueDate": "20251212T223000Z",
+      "link": "https://www.gradescope.com/courses/1075533",
+      "submitted": false
     }
   ],
   "MAT-131-04-05.2025/FA": [
