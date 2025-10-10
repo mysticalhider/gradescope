@@ -249,6 +249,14 @@
       "submitted": false
     },
     {
+      "title": "Lab 14: Recursion practice",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251013T223000Z",
+      "lateDueDate": "20251015T223000Z",
+      "link": "https://www.gradescope.com/courses/1075533",
+      "submitted": false
+    },
+    {
       "title": "Coding Challenge 2: Writing Procedures",
       "course": "CSC-151 Fall 2025",
       "dueDate": "20250918T223000Z",
@@ -279,6 +287,14 @@
       "lateDueDate": "20251011T223000Z",
       "link": "https://www.gradescope.com/courses/1075533/assignments/6748022/submissions/356667542",
       "submitted": true
+    },
+    {
+      "title": "Coding Challenge 6",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251016T223000Z",
+      "lateDueDate": "20251018T223000Z",
+      "link": "https://www.gradescope.com/courses/1075533",
+      "submitted": false
     },
     {
       "title": "Reading Response 8 (due before class 10)",
@@ -399,6 +415,22 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1075533/assignments/6914869/submissions/356680242",
       "submitted": true
+    },
+    {
+      "title": "Reading Response 16 (due before class 19)",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251012T223000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1075533/assignments/6914871/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Reading Response 17 (due before class 21)",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251016T223000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1075533/assignments/6914874/submissions/new",
+      "submitted": false
     },
     {
       "title": "CC3 REDO: Exploring course data",
