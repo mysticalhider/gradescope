@@ -441,10 +441,26 @@
       "submitted": false
     },
     {
+      "title": "Lab 16: Numeric recursion",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251027T223000Z",
+      "lateDueDate": "20251029T223000Z",
+      "link": "https://www.gradescope.com/courses/1075533",
+      "submitted": false
+    },
+    {
       "title": "CC3 REDO: Exploring course data",
       "course": "CSC-151 Fall 2025",
       "dueDate": "20251029T223000Z",
       "lateDueDate": "20251212T223000Z",
+      "link": "https://www.gradescope.com/courses/1075533",
+      "submitted": false
+    },
+    {
+      "title": "CC1 second REDO (if you didn't get the grade you wanted on CC1 REDO)",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251212T223000Z",
+      "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1075533",
       "submitted": false
     }
