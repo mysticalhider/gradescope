@@ -519,6 +519,14 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1075533/assignments/7040653/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Lab 17: Tail and Helper Recursion",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251029T223000Z",
+      "lateDueDate": "20251031T223000Z",
+      "link": "https://www.gradescope.com/courses/1075533",
+      "submitted": false
     }
   ],
   "MAT-131-04-05.2025/FA": [
