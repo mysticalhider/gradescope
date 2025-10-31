@@ -537,6 +537,22 @@
       "submitted": true
     },
     {
+      "title": "Lab 19: Letter Inventory",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251103T223000Z",
+      "lateDueDate": "20251105T223000Z",
+      "link": "https://www.gradescope.com/courses/1075533",
+      "submitted": false
+    },
+    {
+      "title": "Coding Challenge 7",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251106T223000Z",
+      "lateDueDate": "20251108T223000Z",
+      "link": "https://www.gradescope.com/courses/1075533",
+      "submitted": false
+    },
+    {
       "title": "CC5: REDO More sophisticated Data Science",
       "course": "CSC-151 Fall 2025",
       "dueDate": "20251110T223000Z",
