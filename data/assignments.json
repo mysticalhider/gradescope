@@ -583,6 +583,22 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1075533/assignments/7069000/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Reading Response 21 (due before class 25)",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251102T223000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1075533/assignments/7088331/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Reading Response 22 (due before class 27)",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251106T223000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1075533/assignments/7088332/submissions/new",
+      "submitted": false
     }
   ],
   "MAT-131-04-05.2025/FA": [
