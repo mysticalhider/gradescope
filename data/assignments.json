@@ -377,7 +377,7 @@
       "submitted": false
     },
     {
-      "title": "CC1 REDO: Exploring Algorithms",
+      "title": "CC1 Resubmission: Exploring Algorithms",
       "course": "CSC-151 Fall 2025",
       "dueDate": "20251008T223000Z",
       "lateDueDate": "20251212T223000Z",
@@ -393,7 +393,7 @@
       "submitted": true
     },
     {
-      "title": "CC2 Redo: Writing Procedures",
+      "title": "CC2 Resubmission: Writing Procedures",
       "course": "CSC-151 Fall 2025",
       "dueDate": "20251013T223000Z",
       "lateDueDate": "20251212T223000Z",
@@ -553,12 +553,28 @@
       "submitted": true
     },
     {
+      "title": "Lab 22: Vectors",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251110T223000Z",
+      "lateDueDate": "20251112T223000Z",
+      "link": "https://www.gradescope.com/courses/1075533",
+      "submitted": false
+    },
+    {
       "title": "Coding Challenge 7",
       "course": "CSC-151 Fall 2025",
       "dueDate": "20251106T223000Z",
       "lateDueDate": "20251108T223000Z",
       "link": "https://www.gradescope.com/courses/1075533/assignments/7046095/submissions/366967941",
       "submitted": true
+    },
+    {
+      "title": "Coding Challenge 8",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251113T223000Z",
+      "lateDueDate": "20251115T223000Z",
+      "link": "https://www.gradescope.com/courses/1075533",
+      "submitted": false
     },
     {
       "title": "CC5: Resubmission More sophisticated Data Science",
@@ -617,6 +633,14 @@
       "submitted": false
     },
     {
+      "title": "CC6 Resubmission",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251121T223000Z",
+      "lateDueDate": "20251212T223000Z",
+      "link": "https://www.gradescope.com/courses/1075533",
+      "submitted": false
+    },
+    {
       "title": "Reading Response 23 (due before class 28)",
       "course": "CSC-151 Fall 2025",
       "dueDate": "20251109T223000Z",
@@ -630,6 +654,14 @@
       "dueDate": "20251111T223000Z",
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1075533/assignments/7122439/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Reading Response 25 (due before class 30)",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251113T223000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1075533/assignments/7122443/submissions/new",
       "submitted": false
     }
   ],
