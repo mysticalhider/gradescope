@@ -581,8 +581,8 @@
       "course": "CSC-151 Fall 2025",
       "dueDate": "20251117T223000Z",
       "lateDueDate": "20251119T223000Z",
-      "link": "https://www.gradescope.com/courses/1075533",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1075533/assignments/7046086/submissions/369606699",
+      "submitted": true
     },
     {
       "title": "Coding Challenge 7",
@@ -718,6 +718,14 @@
       "dueDate": "20251120T223000Z",
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1075533/assignments/7162301/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "CC5: second Resubmission",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251212T223000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1075533",
       "submitted": false
     }
   ],
