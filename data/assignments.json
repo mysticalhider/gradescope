@@ -593,6 +593,14 @@
       "submitted": false
     },
     {
+      "title": "Lab 27: Trees",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251121T223000Z",
+      "lateDueDate": "20251123T223000Z",
+      "link": "https://www.gradescope.com/courses/1075533",
+      "submitted": false
+    },
+    {
       "title": "Coding Challenge 7",
       "course": "CSC-151 Fall 2025",
       "dueDate": "20251106T223000Z",
@@ -734,6 +742,14 @@
       "dueDate": "20251212T223000Z",
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1075533",
+      "submitted": false
+    },
+    {
+      "title": "Final Project - Part 1",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251121T223000Z",
+      "lateDueDate": "20251123T223000Z",
+      "link": "https://www.gradescope.com/courses/1075533/assignments/7177475/submissions/new",
       "submitted": false
     }
   ],
