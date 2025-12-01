@@ -785,12 +785,20 @@
       "submitted": false
     },
     {
-      "title": "Reading Response 28 (due before class 36)",
+      "title": "Reading Response 28 (due before class 38)",
       "course": "CSC-151 Fall 2025",
-      "dueDate": "20251130T223000Z",
+      "dueDate": "20251204T223000Z",
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1075533/assignments/7229371/submissions/373918077",
       "submitted": true
+    },
+    {
+      "title": "CC8: Resubmission",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251212T223000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1075533",
+      "submitted": false
     }
   ],
   "MAT-131-04-05.2025/FA": [
