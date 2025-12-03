@@ -849,6 +849,14 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1097500",
       "submitted": false
+    },
+    {
+      "title": "Revision - Exam 3",
+      "course": "MAT-131-04-05.2025/FA",
+      "dueDate": "20251210T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1097500/assignments/7249225/submissions/new",
+      "submitted": false
     }
   ]
 }
