@@ -847,6 +847,22 @@
       "lateDueDate": "20251209T223000Z",
       "link": "https://www.gradescope.com/courses/1075533/assignments/7242646/submissions/375605662",
       "submitted": true
+    },
+    {
+      "title": "CC4 fourth Resubmission",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251212T223000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1075533",
+      "submitted": false
+    },
+    {
+      "title": "CC1 fourth Resubmission",
+      "course": "CSC-151 Fall 2025",
+      "dueDate": "20251212T223000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1075533",
+      "submitted": false
     }
   ],
   "MAT-131-04-05.2025/FA": [
