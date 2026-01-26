@@ -41,6 +41,14 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1223277/assignments/7541379/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "D2 1/26",
+      "course": "MAT-131-01.2026/SP",
+      "dueDate": "20260126T112000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1223277",
+      "submitted": false
     }
   ]
 }
