@@ -265,6 +265,14 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1223277",
       "submitted": false
+    },
+    {
+      "title": "D7 2/11",
+      "course": "MAT-131-01.2026/SP",
+      "dueDate": "20260211T112200Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1223277",
+      "submitted": false
     }
   ]
 }
