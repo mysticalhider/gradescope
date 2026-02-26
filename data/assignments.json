@@ -247,6 +247,14 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1232551",
       "submitted": false
+    },
+    {
+      "title": "Lab Report: Week 6",
+      "course": "CSC-161 Spring 2026",
+      "dueDate": "20260303T220000Z",
+      "lateDueDate": "20260305T220000Z",
+      "link": "https://www.gradescope.com/courses/1232551",
+      "submitted": false
     }
   ],
   "MAT-131-01.2026/SP": [
