@@ -279,6 +279,14 @@
       "lateDueDate": "20260409T220000Z",
       "link": "https://www.gradescope.com/courses/1232551/assignments/7929408/submissions/402527925",
       "submitted": true
+    },
+    {
+      "title": "Homework: Lightcycle",
+      "course": "CSC-161 Spring 2026",
+      "dueDate": "20260409T220000Z",
+      "lateDueDate": "20260411T220000Z",
+      "link": "https://www.gradescope.com/courses/1232551",
+      "submitted": false
     }
   ],
   "MAT-131-01.2026/SP": [
