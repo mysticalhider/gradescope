@@ -307,8 +307,8 @@
     {
       "title": "Lab Report: Week 5 Resubmission",
       "course": "CSC-161 Spring 2026",
-      "dueDate": "20260224T220000Z",
-      "lateDueDate": "20260226T220000Z",
+      "dueDate": "20260501T220000Z",
+      "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1232551",
       "submitted": false
     },
@@ -317,8 +317,8 @@
       "course": "CSC-161 Spring 2026",
       "dueDate": "20260421T220000Z",
       "lateDueDate": "20260423T220000Z",
-      "link": "https://www.gradescope.com/courses/1232551",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1232551/assignments/7995680/submissions/406339436",
+      "submitted": true
     }
   ],
   "MAT-131-01.2026/SP": [
