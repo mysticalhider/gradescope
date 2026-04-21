@@ -319,6 +319,14 @@
       "lateDueDate": "20260423T220000Z",
       "link": "https://www.gradescope.com/courses/1232551/assignments/7995680/submissions/406339436",
       "submitted": true
+    },
+    {
+      "title": "Homework: Pathfinding",
+      "course": "CSC 161",
+      "dueDate": "20260423T220000Z",
+      "lateDueDate": "20260425T220000Z",
+      "link": "https://www.gradescope.com/courses/1232551",
+      "submitted": false
     }
   ],
   "MAT-131-01.2026/SP": [
