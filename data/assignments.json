@@ -259,7 +259,7 @@
     {
       "title": "Homework: Yahtzee Resubmission",
       "course": "CSC 161",
-      "dueDate": "20260501T220000Z",
+      "dueDate": "20260515T170000Z",
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1232551",
       "submitted": false
@@ -299,7 +299,7 @@
     {
       "title": "Homework: Connect Four Resubmission",
       "course": "CSC 161",
-      "dueDate": "20260501T220000Z",
+      "dueDate": "20260515T170000Z",
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1232551",
       "submitted": false
@@ -365,6 +365,22 @@
       "course": "CSC 161",
       "dueDate": "20260505T220000Z",
       "lateDueDate": "20260507T220000Z",
+      "link": "https://www.gradescope.com/courses/1232551",
+      "submitted": false
+    },
+    {
+      "title": "Homework: Pathfinding Resubmission",
+      "course": "CSC 161",
+      "dueDate": "20260515T170000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1232551",
+      "submitted": false
+    },
+    {
+      "title": "Homework: Lightcycle Resubmission",
+      "course": "CSC 161",
+      "dueDate": "20260515T170000Z",
+      "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1232551",
       "submitted": false
     }
