@@ -399,6 +399,14 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1232551",
       "submitted": false
+    },
+    {
+      "title": "Final Project",
+      "course": "CSC 161",
+      "dueDate": "20260515T170000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1232551",
+      "submitted": false
     }
   ],
   "MAT-131-01.2026/SP": [
