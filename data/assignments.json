@@ -1,4 +1,13 @@
 {
   "CSC-208-01": [],
-  "CSC207_Afternoon": []
+  "CSC207_Afternoon": [
+    {
+      "title": "Lab1_B_individual",
+      "course": "CSC207_Afternoon",
+      "dueDate": "20260902T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1360051",
+      "submitted": false
+    }
+  ]
 }
