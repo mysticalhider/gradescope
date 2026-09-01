@@ -1,5 +1,22 @@
 {
-  "CSC-208-01": [],
+  "CSC-208-01": [
+    {
+      "title": "Lab 0 end of class",
+      "course": "CSC-208-01",
+      "dueDate": "20260901T143000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1373499/assignments/8530072/submissions/422556283",
+      "submitted": true
+    },
+    {
+      "title": "Lab 0 end of week",
+      "course": "CSC-208-01",
+      "dueDate": "20260904T220000Z",
+      "lateDueDate": "20260906T220000Z",
+      "link": "https://www.gradescope.com/courses/1373499",
+      "submitted": false
+    }
+  ],
   "CSC207_Afternoon": [
     {
       "title": "Lab1_B_individual",
