@@ -15,6 +15,14 @@
       "lateDueDate": "20260906T220000Z",
       "link": "https://www.gradescope.com/courses/1373499",
       "submitted": false
+    },
+    {
+      "title": "Lab 1 end of week",
+      "course": "CSC-208-01",
+      "dueDate": "20260904T220000Z",
+      "lateDueDate": "20260906T220000Z",
+      "link": "https://www.gradescope.com/courses/1373499",
+      "submitted": false
     }
   ],
   "CSC207_Afternoon": [
@@ -22,6 +30,14 @@
       "title": "Lab1_B_individual",
       "course": "CSC207_Afternoon",
       "dueDate": "20260902T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1360051",
+      "submitted": false
+    },
+    {
+      "title": "GroupProject_1",
+      "course": "CSC207_Afternoon",
+      "dueDate": "20260909T235900Z",
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1360051",
       "submitted": false
