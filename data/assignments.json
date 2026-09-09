@@ -61,7 +61,7 @@
     {
       "title": "GroupProject_1",
       "course": "CSC207_Afternoon",
-      "dueDate": "20260909T235900Z",
+      "dueDate": "20260911T235900Z",
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1360051",
       "submitted": false
@@ -72,7 +72,7 @@
       "title": "CC1 revisions",
       "course": "MAT-131-02.2026/FA",
       "dueDate": "20260909T130000Z",
-      "lateDueDate": null,
+      "lateDueDate": "20260916T130000Z",
       "link": "https://www.gradescope.com/courses/1383170/assignments/8572585/submissions/424319020",
       "submitted": true
     }
