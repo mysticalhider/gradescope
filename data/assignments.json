@@ -68,7 +68,7 @@
       "title": "Homework 01",
       "course": "CSC-208-01",
       "dueDate": "20260911T220000Z",
-      "lateDueDate": "20260913T220000Z",
+      "lateDueDate": "20260915T220000Z",
       "link": "https://www.gradescope.com/courses/1373499",
       "submitted": false
     }
@@ -107,6 +107,14 @@
       "lateDueDate": "20260916T130000Z",
       "link": "https://www.gradescope.com/courses/1383170/assignments/8572585/submissions/424319020",
       "submitted": true
+    },
+    {
+      "title": "CC2 Revisions",
+      "course": "MAT-131-02.2026/FA",
+      "dueDate": "20260916T115900Z",
+      "lateDueDate": "20260923T115900Z",
+      "link": "https://www.gradescope.com/courses/1383170",
+      "submitted": false
     }
   ]
 }
