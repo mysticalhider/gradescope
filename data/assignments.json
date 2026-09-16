@@ -87,6 +87,14 @@
       "lateDueDate": "20260920T220000Z",
       "link": "https://www.gradescope.com/courses/1373499",
       "submitted": false
+    },
+    {
+      "title": "Homework 02",
+      "course": "CSC-208-01",
+      "dueDate": "20260918T220000Z",
+      "lateDueDate": "20260920T220000Z",
+      "link": "https://www.gradescope.com/courses/1373499",
+      "submitted": false
     }
   ],
   "CSC207_Afternoon": [
@@ -111,8 +119,8 @@
       "course": "CSC207_Afternoon",
       "dueDate": "20260916T235900Z",
       "lateDueDate": null,
-      "link": "https://www.gradescope.com/courses/1360051",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1360051/assignments/8613497/submissions/426978618",
+      "submitted": true
     },
     {
       "title": "G_Project_2",
