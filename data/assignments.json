@@ -111,6 +111,30 @@
       "lateDueDate": "20260920T220000Z",
       "link": "https://www.gradescope.com/courses/1373499",
       "submitted": false
+    },
+    {
+      "title": "Lab 6 end of class",
+      "course": "CSC-208-01",
+      "dueDate": "20260922T100000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1373499/assignments/8679366/submissions/428973531",
+      "submitted": true
+    },
+    {
+      "title": "Lab 6 end of week",
+      "course": "CSC-208-01",
+      "dueDate": "20260925T220000Z",
+      "lateDueDate": "20260927T220000Z",
+      "link": "https://www.gradescope.com/courses/1373499",
+      "submitted": false
+    },
+    {
+      "title": "Homework 03",
+      "course": "CSC-208-01",
+      "dueDate": "20260925T220000Z",
+      "lateDueDate": "20260927T220000Z",
+      "link": "https://www.gradescope.com/courses/1373499",
+      "submitted": false
     }
   ],
   "CSC207_Afternoon": [
