@@ -121,7 +121,23 @@
       "submitted": true
     },
     {
+      "title": "Lab 7 end of class",
+      "course": "CSC-208-01",
+      "dueDate": "20260924T100000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1373499",
+      "submitted": false
+    },
+    {
       "title": "Lab 6 end of week",
+      "course": "CSC-208-01",
+      "dueDate": "20260925T220000Z",
+      "lateDueDate": "20260927T220000Z",
+      "link": "https://www.gradescope.com/courses/1373499",
+      "submitted": false
+    },
+    {
+      "title": "Lab 7 end of week",
       "course": "CSC-208-01",
       "dueDate": "20260925T220000Z",
       "lateDueDate": "20260927T220000Z",
