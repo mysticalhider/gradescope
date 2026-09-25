@@ -216,7 +216,7 @@
       "title": "CC2 Revisions",
       "course": "MAT-131-02.2026/FA",
       "dueDate": "20260916T115900Z",
-      "lateDueDate": "20260923T115900Z",
+      "lateDueDate": "20260930T115900Z",
       "link": "https://www.gradescope.com/courses/1383170",
       "submitted": false
     },
@@ -225,6 +225,14 @@
       "course": "MAT-131-02.2026/FA",
       "dueDate": "20260930T115900Z",
       "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1383170",
+      "submitted": false
+    },
+    {
+      "title": "CC3 revisions",
+      "course": "MAT-131-02.2026/FA",
+      "dueDate": "20260930T115900Z",
+      "lateDueDate": "20261007T115900Z",
       "link": "https://www.gradescope.com/courses/1383170",
       "submitted": false
     }
