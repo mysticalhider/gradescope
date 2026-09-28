@@ -235,6 +235,14 @@
       "lateDueDate": "20261007T115900Z",
       "link": "https://www.gradescope.com/courses/1383170",
       "submitted": false
+    },
+    {
+      "title": "Class work 9/28",
+      "course": "MAT-131-02.2026/FA",
+      "dueDate": "20260928T111000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1383170/assignments/8754424/submissions/431268842",
+      "submitted": true
     }
   ]
 }
