@@ -249,8 +249,8 @@
       "course": "MAT-131-02.2026/FA",
       "dueDate": "20260930T115900Z",
       "lateDueDate": null,
-      "link": "https://www.gradescope.com/courses/1383170",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1383170/assignments/8713338/submissions/432057228",
+      "submitted": true
     },
     {
       "title": "CC3 revisions",
@@ -267,6 +267,14 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1383170/assignments/8754424/submissions/431268842",
       "submitted": true
+    },
+    {
+      "title": "Class work 9/30",
+      "course": "MAT-131-02.2026/FA",
+      "dueDate": "20260930T111500Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1383170/assignments/8773051/submissions/new",
+      "submitted": false
     }
   ]
 }
