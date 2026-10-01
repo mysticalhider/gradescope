@@ -175,6 +175,22 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1373499/assignments/8743258/submissions/431662041",
       "submitted": true
+    },
+    {
+      "title": "Lab 9 end of week",
+      "course": "CSC-208-01",
+      "dueDate": "20261002T220000Z",
+      "lateDueDate": "20261004T220000Z",
+      "link": "https://www.gradescope.com/courses/1373499",
+      "submitted": false
+    },
+    {
+      "title": "Lab 9 end of class",
+      "course": "CSC-208-01",
+      "dueDate": "20261001T100000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1373499",
+      "submitted": false
     }
   ],
   "CSC207_Afternoon": [
@@ -213,7 +229,7 @@
     {
       "title": "Individual_Ass_1",
       "course": "CSC207_Afternoon",
-      "dueDate": "20260930T235900Z",
+      "dueDate": "20261003T235900Z",
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1360051",
       "submitted": false
