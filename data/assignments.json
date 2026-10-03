@@ -241,6 +241,14 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1360051",
       "submitted": false
+    },
+    {
+      "title": "AI_lab",
+      "course": "CSC207_Afternoon",
+      "dueDate": "20261014T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1360051",
+      "submitted": false
     }
   ],
   "MAT-131-02.2026/FA": [
