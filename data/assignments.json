@@ -243,6 +243,14 @@
       "submitted": false
     },
     {
+      "title": "Midterm",
+      "course": "CSC207_Afternoon",
+      "dueDate": "20261012T231400Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1360051",
+      "submitted": false
+    },
+    {
       "title": "AI_lab",
       "course": "CSC207_Afternoon",
       "dueDate": "20261014T235900Z",
@@ -305,6 +313,22 @@
       "course": "MAT-131-02.2026/FA",
       "dueDate": "20261002T112500Z",
       "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1383170",
+      "submitted": false
+    },
+    {
+      "title": "Classwork 10/5",
+      "course": "MAT-131-02.2026/FA",
+      "dueDate": "20261005T110500Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1383170/assignments/8808041/submissions/433840172",
+      "submitted": true
+    },
+    {
+      "title": "CC4 revisions",
+      "course": "MAT-131-02.2026/FA",
+      "dueDate": "20261007T115900Z",
+      "lateDueDate": "20261007T115900Z",
       "link": "https://www.gradescope.com/courses/1383170",
       "submitted": false
     }
