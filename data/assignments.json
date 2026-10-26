@@ -321,6 +321,22 @@
       "lateDueDate": "20261016T235900Z",
       "link": "https://www.gradescope.com/courses/1360051/assignments/8798392/submissions/437613750",
       "submitted": true
+    },
+    {
+      "title": "CareerReadness",
+      "course": "CSC207_Afternoon",
+      "dueDate": "20261030T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1360051",
+      "submitted": false
+    },
+    {
+      "title": "TheoryLab",
+      "course": "CSC207_Afternoon",
+      "dueDate": "20261030T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1360051",
+      "submitted": false
     }
   ],
   "MAT-131-02.2026/FA": [
