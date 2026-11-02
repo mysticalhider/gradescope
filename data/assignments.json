@@ -353,6 +353,22 @@
       "lateDueDate": "20261031T235900Z",
       "link": "https://www.gradescope.com/courses/1360051",
       "submitted": false
+    },
+    {
+      "title": "Minesweeper",
+      "course": "CSC207_Afternoon",
+      "dueDate": "20261108T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1360051",
+      "submitted": false
+    },
+    {
+      "title": "TheoryLab_2",
+      "course": "CSC207_Afternoon",
+      "dueDate": "20261106T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1360051",
+      "submitted": false
     }
   ],
   "MAT-131-02.2026/FA": [
