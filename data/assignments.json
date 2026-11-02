@@ -342,7 +342,7 @@
       "title": "CareerReadness",
       "course": "CSC207_Afternoon",
       "dueDate": "20261030T235900Z",
-      "lateDueDate": "20261031T235900Z",
+      "lateDueDate": "20261102T235900Z",
       "link": "https://www.gradescope.com/courses/1360051",
       "submitted": false
     },
@@ -350,7 +350,7 @@
       "title": "TheoryLab",
       "course": "CSC207_Afternoon",
       "dueDate": "20261030T235900Z",
-      "lateDueDate": "20261031T235900Z",
+      "lateDueDate": "20261102T235900Z",
       "link": "https://www.gradescope.com/courses/1360051",
       "submitted": false
     },
@@ -465,6 +465,14 @@
       "course": "MAT-131-02.2026/FA",
       "dueDate": "20261030T110000Z",
       "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1383170",
+      "submitted": false
+    },
+    {
+      "title": "CC6 revisions",
+      "course": "MAT-131-02.2026/FA",
+      "dueDate": "20261104T115900Z",
+      "lateDueDate": "20261111T115900Z",
       "link": "https://www.gradescope.com/courses/1383170",
       "submitted": false
     }
