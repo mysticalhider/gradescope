@@ -279,6 +279,14 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1373499/assignments/8966339/submissions/442644173",
       "submitted": true
+    },
+    {
+      "title": "Lab 16 end of class",
+      "course": "CSC-208-01",
+      "dueDate": "20261103T100000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1373499",
+      "submitted": false
     }
   ],
   "CSC207_Afternoon": [
