@@ -515,6 +515,14 @@
       "lateDueDate": "20261111T115900Z",
       "link": "https://www.gradescope.com/courses/1383170",
       "submitted": false
+    },
+    {
+      "title": "Exam 2 Revisions",
+      "course": "MAT-131-02.2026/FA",
+      "dueDate": "20261111T115900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1383170",
+      "submitted": false
     }
   ]
 }
