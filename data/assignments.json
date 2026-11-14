@@ -579,6 +579,14 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1383170/assignments/9018818/submissions/446195871",
       "submitted": true
+    },
+    {
+      "title": "CC7 revisions",
+      "course": "MAT-131-02.2026/FA",
+      "dueDate": "20261118T115900Z",
+      "lateDueDate": "20261125T115900Z",
+      "link": "https://www.gradescope.com/courses/1383170",
+      "submitted": false
     }
   ]
 }
