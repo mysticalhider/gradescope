@@ -399,6 +399,14 @@
       "lateDueDate": "20261122T220000Z",
       "link": "https://www.gradescope.com/courses/1373499",
       "submitted": false
+    },
+    {
+      "title": "Probability Game",
+      "course": "CSC-208-01",
+      "dueDate": "20261124T100000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1373499/assignments/9101658/submissions/451455243",
+      "submitted": true
     }
   ],
   "CSC207_Afternoon": [
