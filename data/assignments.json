@@ -519,6 +519,22 @@
       "course": "CSC207_Afternoon",
       "dueDate": "20261125T235900Z",
       "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1360051/assignments/9083039/submissions/451746699",
+      "submitted": true
+    },
+    {
+      "title": "FinalPart2",
+      "course": "CSC207_Afternoon",
+      "dueDate": "20261210T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1360051",
+      "submitted": false
+    },
+    {
+      "title": "FinalPart2_Analyzing",
+      "course": "CSC207_Afternoon",
+      "dueDate": "20261212T235900Z",
+      "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1360051",
       "submitted": false
     }
@@ -641,6 +657,14 @@
       "course": "MAT-131-02.2026/FA",
       "dueDate": "20261118T115900Z",
       "lateDueDate": "20261125T115900Z",
+      "link": "https://www.gradescope.com/courses/1383170",
+      "submitted": false
+    },
+    {
+      "title": "CC8 revisions",
+      "course": "MAT-131-02.2026/FA",
+      "dueDate": "20261126T115900Z",
+      "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1383170",
       "submitted": false
     }
